@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tatjanas1
-- 👀 I’m interested in QA, SWD, PM
-- 🌱 I’m currently learning QA, SWD Android
+- 👀 I’m interested in QA, QA Automation, PM
+- 🌱 I’m currently learning Java, Postman, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
